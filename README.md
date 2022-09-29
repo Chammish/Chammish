@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chammish
-- 👀 I’m interested in ...Cybersecurity and Ethical Hacking
-- 🌱 I’m currently learning ...'C' and side by side Cybersecurity Basics from W3schools.
+- 👀 I’m interested in ...Game Dev and Game Design
+- 🌱 I’m currently learning ...'C , C# and Unity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
