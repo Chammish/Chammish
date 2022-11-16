@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chammish
-- 👀 I’m interested in ...Game Dev and Game Design
-- 🌱 I’m currently learning ...'C , C# and Unity.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Startup
+- 🌱 I’m currently learning ...about Management
+- 💞️ I’m looking to collaborate on ...NOPE...
 - 📫 How to reach me ...chammishkeshav@gmail.com
 
 <!---
